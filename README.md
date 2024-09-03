@@ -155,8 +155,7 @@ describe('Example Domain Test', () => {
 
 ### Conclusão
 
-Seguindo o ciclo TDD (Red, Green, Refactor), garantimos que cada funcionalidade é validada e implementada de forma eficaz desde o início. A abordagem TDD, aliada ao uso de Cypress, permite que desenvolvedores criem testes robustos e mantenham a qualidade do código ao longo do desenvolvimento. A prática contínua do TDD e da refatoração assegura que o código é não apenas funcional, mas também limpo e sustentável.
-
+O Desenvolvimento Orientado a Testes (TDD) em React é essencial para garantir a qualidade e a robustez das aplicações, e isso inclui a implementação de testes end-to-end (E2E). Os testes E2E validam o funcionamento completo da aplicação ao simular interações reais do usuário e verificar se todas as partes do sistema estão integradas corretamente. Ao adotar o TDD, você escreve testes antes de implementar o código, o que ajuda a definir claramente os requisitos e o comportamento esperado da aplicação. Isso não apenas promove um desenvolvimento mais estruturado e iterativo, mas também permite detectar bugs precocemente e refatorar o código com segurança. Para aplicações React, os testes E2E garantem que cada fluxo de trabalho e funcionalidade sejam verificados de ponta a ponta, assegurando uma experiência de usuário consistente e confiável, além de facilitar a manutenção e a escalabilidade do código ao longo do tempo.
 A integração de testes automatizados com Cypress ajuda a identificar e corrigir problemas rapidamente, reduzindo a possibilidade de regressões e melhorando a confiança na evolução contínua da aplicação.
 
 ---
